@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/wasmerio/rust-cli-app-example) 
+
 # rust-cli-app-example
 
 A demonstration application. This shows how one can create command-line apps in WebAssembly with Emscripten, Rust, and Wasmer.
